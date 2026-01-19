@@ -12,7 +12,7 @@ services:
 
   db:
     image: postgres:13
-    container_name: wingo30s_db
+    container_name: wingoxxx_db
     restart: always
     environment:
       POSTGRES_DB: ${POSTGRES_DB}
