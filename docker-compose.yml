@@ -3,7 +3,7 @@ version: '3.8'
 services:
   bot:
     build: .
-    container_name: wingo30s_bot
+    container_name: wingoxxx
     restart: always
     env_file:
       - .env
